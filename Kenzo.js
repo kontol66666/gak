@@ -39,32 +39,23 @@ try {
 }
 
 const zones = {
-    '03f3569e809aa63eb40d842af3ddb523': 'panelprivv.xyz',
-    'a476ffcf9243c44a02220f184da527e8': 'mypanell.biz.id',
-    '891a2e5d4ac5b3db4fbcef8d9088ad38': 'cpanel-vip.my.id',
-    'c2c8ddf4f1bfd0d0c11eb0ed83a634f9': 'r0ulxye4.my.id',
-    '7432f024eeeaa0367fd985a18b2729cc': 'lanzpanel.my.id',
-    '6c4af9293eed7ea87c94d8effe5f2de2': 'panellprivate.my.id',
-    '15b97d8a42af1c00a70070e577ce7301': 'panellstore.site',
-    '9b28f4ad0f06b36dd94cc56b01efc19a': 'plerkuda.my.id',
-    '2bb49b2de0cbf75c0462ed90d7d333e1': 'cafegt.my.id',
-    'd318f96a6327c5340d136415e860f545': 'kangpanel.biz.id',
-    '98264c6c53c5bc9080230b077422d748': 'adminpanel.biz.id'
+    '043d75c4f8135fc72862eef1aeed0c76': 'alxzzhost-king.my.id',
+    '56b42867a27737a2a4bbb59e4f6701e1': 'alxzzhost-yatim.my.id',
+    '12a1e2009b31e17e7e0af4d67e1cd2dd': 'alxzzoffc-store.my.id',
+    'a88924e9efa7d07592f1eec15a38fca7': 'yaszmesir-private.my.id',
+    '9035c71aeae5fe12ec8e9df5363d9a77': 'biananakal.my.id',
+    '415c54c6f1bdb8d914a8c86cae443546': 'rafahost.my.id',
+
 };
 
 const apiTokens = {
-    '03f3569e809aa63eb40d842af3ddb523': 'kLS7qdEt9zuC9UJr2u5ok5LsPaKKk0p0vuuTgmEo',
-    'a476ffcf9243c44a02220f184da527e8': 'RsbJAI6X7s7bPEj23R7sf28cqHibApP1EBSoF4FZ',
-    '891a2e5d4ac5b3db4fbcef8d9088ad38': 'V2BCJ-jhHXQlkN5-_Jv-CuXEtJbLT9fo7NWAlMK2',
-    'c2c8ddf4f1bfd0d0c11eb0ed83a634f9': 'RHmElwWM5pEb3HsWi82uramdhi9wzDsaU8F9JV6F',
-    '7432f024eeeaa0367fd985a18b2729cc': 'RsbJAI6X7s7bPEj23R7sf28cqHibApP1EBSoF4FZ',
-    '6c4af9293eed7ea87c94d8effe5f2de2': 'fxR0JgMIVwd0wvGIeBTymygdSMx1yNAN12lN8ure',
-    '15b97d8a42af1c00a70070e577ce73017': 'RsbJAI6X7s7bPEj23R7sf28cqHibApP1EBSoF4FZ',
-    '9b28f4ad0f06b36dd94cc56b01efc19a': 'bMiZlOhkSzozUq1jMLO5bk4OeZr0GllyVtVWX1F4',
-    '2bb49b2de0cbf75c0462ed90d7d333e1': 'lZ0XMXdnwp2L1DsI3f8frkPwvkQ6ENee2PnAfOsY',
-    'd318f96a6327c5340d136415e860f545': 'RTe9hBdh_-nt0wzOvYN183JyQC011yaiodQ7Po1b',
-    '98264c6c53c5bc9080230b077422d748': '1W9IHC9mLAKj8hQaMjczy0gA3Of7kPjJ3gAvTlnZ',
-};
+    '043d75c4f8135fc72862eef1aeed0c76': 'd5oM11Pq___3oOB04W69WbbSTj5WlSW9AxmPXwtP',
+    '56b42867a27737a2a4bbb59e4f6701e1': '8z7IaVarDN6Z2-1lu7E75EmH_HQEhnKHaE1Jm1P3',
+    '12a1e2009b31e17e7e0af4d67e1cd2dd': 'KB7axjTM8VHSeiaxr3ZkC-jYimGl1_wTQkAajVe5',
+    'a88924e9efa7d07592f1eec15a38fca7': 'oMzllZRd_njILXQvXPSN0fh6-u82dQ7BEp9lmj_o',
+    '9035c71aeae5fe12ec8e9df5363d9a77': '20x_Nv8niJ9vOokuO0igwbxRkoT2WTMxmuPj1TyV',
+    '415c54c6f1bdb8d914a8c86cae443546': '-yEJ38lk_ve5-0F2MzdYBEBW97JnAXXeA8coKC1G',
+
 
 function getRuntime(startTime) {
     const uptime = process.uptime();
