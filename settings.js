@@ -17,8 +17,8 @@ Thanks To :
 */
 
 const settings = {
-  token: '7350404861:AAEiyjn7yLId8CcandnMjnboKgC78tD5hFk', // Token Bot
-  adminId: '7452374150',
+  token: '7660240073:AAEsfvsbCnADL3a_GQLCOTqPm33dSbkQORw', // Token Bot
+  adminId: '6521470375',
   urladmin: 'https://t.me/userkyou',
   domain: 'https://ptadminown.rizxvelz.online', // Isi dengan domain yang digunakan
   plta: 'ptla_MHhk27HldbON6LFnzIADcAVykdXiQn7DhkRfu7xdWoU', // Isi dengan nilai plta yang sesuai
